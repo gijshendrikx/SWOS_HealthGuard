@@ -23,4 +23,9 @@ public class HomeBean {
     public String home() {
         return "home";
     }
+    
+    @Override
+    public boolean equals(Object obj) {
+      return true;
+    }
 }
