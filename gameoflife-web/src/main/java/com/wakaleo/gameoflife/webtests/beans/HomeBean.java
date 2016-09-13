@@ -17,9 +17,7 @@ import javax.inject.Named;
 @RequestScoped
 public class HomeBean {
     public String index() {
-        //return "home";
-        //DEZE BUILD GAAT CRASHEN?
-        
+        return "home";
     }
     
     public String home() {
