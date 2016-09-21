@@ -21,7 +21,12 @@ public class HomeBean {
     }
     
     public String home() {
-        return "home";
-        //test
+        if(1==1){
+            return "home";
+        } else {
+            return "kan niet";
+        }
+        //Dit is een test aanpassing
+        
     }
 }
