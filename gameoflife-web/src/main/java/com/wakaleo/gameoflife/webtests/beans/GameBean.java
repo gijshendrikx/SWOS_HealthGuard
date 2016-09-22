@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * This class rocks.
  *
- * @author johnsmart aanpassing
+ * @author johnsmart
  */
 @Named
 @SessionScoped
